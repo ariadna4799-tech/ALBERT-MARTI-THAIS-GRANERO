@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 256,
+    "width": 1536,
+    "height": 2048,
+    "isRotated": false,
+    "originalWidth": 2048,
+    "originalHeight": 2048
+  },
+  "imagePath": "image-targets/raquelquela_Extreme_close-up_studio_photograph_of_a_real_fried__6c16903d-0f1d-4d77-bb5d-7174d219d653_luminance.png",
+  "metadata": null,
+  "name": "raquelquela_Extreme_close-up_studio_photograph_of_a_real_fried__6c16903d-0f1d-4d77-bb5d-7174d219d653",
+  "resources": {
+    "originalImage": "raquelquela_Extreme_close-up_studio_photograph_of_a_real_fried__6c16903d-0f1d-4d77-bb5d-7174d219d653_original.png",
+    "croppedImage": "raquelquela_Extreme_close-up_studio_photograph_of_a_real_fried__6c16903d-0f1d-4d77-bb5d-7174d219d653_cropped.png",
+    "thumbnailImage": "raquelquela_Extreme_close-up_studio_photograph_of_a_real_fried__6c16903d-0f1d-4d77-bb5d-7174d219d653_thumbnail.png",
+    "luminanceImage": "raquelquela_Extreme_close-up_studio_photograph_of_a_real_fried__6c16903d-0f1d-4d77-bb5d-7174d219d653_luminance.png"
+  },
+  "created": 1791401222196,
+  "updated": 1791401222196
+}
